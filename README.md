@@ -1,4 +1,4 @@
-# war-card-gam
+# war card game
 
 GAME DESCRIPTION:
 
