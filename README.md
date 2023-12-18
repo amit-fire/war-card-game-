@@ -1,5 +1,3 @@
-# war card game
-
 GAME DESCRIPTION:
 
 Performance can be improved. For the first iteration, I was focused on
@@ -97,6 +95,8 @@ stack becomes empty.
 
 There's no shuffle during the game. Adding a shuffle, wouldn't change
 anything.
+
+The entry point is War.java and the game's logic is GameManager.java
 
 Testing: see GameTest class
 
